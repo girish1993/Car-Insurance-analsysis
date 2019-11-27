@@ -37,5 +37,5 @@ The Exploratory Data Anlaysis includes a combination of multiple distribution wh
 
 ![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/doc_images/img.png)
 
-Kindly go through the Jupyter notebook for detailed anlaysis report and findings.
+The jupyter notebook has detailed description and implementation.
 </p>
