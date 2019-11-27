@@ -35,7 +35,7 @@ The Exploratory Data Anlaysis includes a combination of multiple distribution wh
     <li>Scatter plots - to find out correlation patters between features</li>
 </ol>
 
-
+![doc_image](https://github.com/girish1993/Car-Insurance-analsysis/blob/master/doc_images/img.png)
 
 Kindly go through the Jupyter notebook for detailed anlaysis report and findings.
 </p>
