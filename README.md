@@ -13,18 +13,29 @@ This problem fits a probablistic model solution which has to be built over a dim
 
 The step by step method used is as follows:
 <ol>
-<li>Getting rid of Zero/nearZeroVariance variables</li>
-<li>Removing features with high perentage of missing values</li>
-<li>Performing detailed Exploratory Data Analysis for all the Features</li>
-<li>Getting rid of pair-wise correlation among the predictors</li>
-<li>Identifying features highly correlated to the response variable</li>
-<li>Wrapper methods</li>
-<li>Cross Validation</li>
-<li>Prediction of Carvan Policies for Customers</li>
-<li>Evaluation of Model Performance</li>
+    <li>Getting rid of Zero/nearZeroVariance variables</li>
+    <li>Removing features with high perentage of missing values</li>
+    <li>Performing detailed Exploratory Data Analysis for all the Features</li>
+    <li>Getting rid of pair-wise correlation among the predictors</li>
+    <li>Identifying features highly correlated to the response variable</li>
+    <li>Wrapper methods</li>
+    <li>Cross Validation</li>
+    <li>Prediction of Carvan Policies for Customers</li>
+    <li>Evaluation of Model Performance</li>
 </ol>
 
 The Inferential analysis has been supplmented by graphical data exploration and statisitcal exploration as well. The solution metrics have been visulized in every possible stage which helps reinforce the correctness of the employed method or step. 
+
+
+
+The Exploratory Data Anlaysis includes a combination of multiple distribution which help in determining the statistical significance of the features.
+<ol>
+    <li>Hinged Box plots - Helps in identifing oultiers</li>
+    <li>Histograms - the overall distribution of the feature</li>
+    <li>Scatter plots - to find out correlation patters between features</li>
+</ol>
+
+
 
 Kindly go through the Jupyter notebook for detailed anlaysis report and findings.
 </p>
